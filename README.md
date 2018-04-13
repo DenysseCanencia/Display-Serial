@@ -28,7 +28,13 @@
    <p>Display Serial.fzz   ->  Diseño del diagrama de conexiones hecha en Fritzing</p>
    <p>Java_Arduino.ino     ->  Codigo en Arduino que contiene las instrucciones
                                para la corecta realizacion de la practica</p>
+   <p>Principal.java       ->  clase principal de java de inicio</p>
+   <p>Segunda.java         ->  clase de java donde se despliegan las opciones</p>
+   <p>LCD_Arduino.java     ->  clase de java que continen el codigo para enviar los mensajes al LCD </p>
+   <p>Temperatura.java     ->  clase de java que contiene el codigo para mostrar la temperatura en el LCD </p>
+   <p>Hora.java            ->  clase de java que contiene el codigo para mostrar la fecha y hora en el LCD</p>
 
 <h2>Informacion de Contacto</h2>
 <p>Autor: Aurora Denysse Canencia Rodriguez</p>
 <p>correo: aurora_denysse@hotmail.com</p>
+ 
