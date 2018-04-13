@@ -30,5 +30,5 @@
                                para la corecta realizacion de la practica</p>
 
 <h2>Informacion de Contacto</h2>
-Autor: Aurora Denysse Canencia Rodriguez
-correo: aurora_denysse@hotmail.com
+<p>Autor: Aurora Denysse Canencia Rodriguez</p>
+<p>correo: aurora_denysse@hotmail.com</p>
