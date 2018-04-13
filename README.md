@@ -25,7 +25,7 @@
    <p>diagrama.png         ->  Imagen del diagrama de conexiones</p>
    <p>evidencia_linux1.jpg ->  Imagen que evidencía el uso de linux para la prueba de la practica</p>
    <p>evidencia_linux2.jpg ->  Imagen que evidencía el uso de linux para la prueba de la practica</p>
-   <p>Displya Serial.fzz   ->  Diseño del diagrama de conexiones hecha en Fritzing</p>
+   <p>Display Serial.fzz   ->  Diseño del diagrama de conexiones hecha en Fritzing</p>
    <p>Java_Arduino.ino     ->  Codigo en Arduino que contiene las instrucciones
                                para la corecta realizacion de la practica</p>
 
